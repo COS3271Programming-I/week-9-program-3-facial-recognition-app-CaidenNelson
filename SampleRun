@@ -1,0 +1,11 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=51572:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/UNWSP Java Class/out/production/week 9 faceTest
+Enter the measurements for the user:
+Measurement #1: 210
+Measurement #2: 23
+Measurement #3: 345
+Measurement #4: 76
+Measurement #5: 54
+Measurement #6: 32
+The closest match is Person #4
+
+Process finished with exit code 0
